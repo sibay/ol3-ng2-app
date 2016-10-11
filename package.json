@@ -10,7 +10,7 @@
     "typings": "typings"
   },
   "license":  "MIT",
-  "description": "minimalistic app for showing openlayers2 maps with ng2",
+  "description": "minimalistic app for showing openlayers3 maps with angular2",
   "dependencies": {
     "@angular/common": "~2.0.2",
     "@angular/compiler": "~2.0.2",
